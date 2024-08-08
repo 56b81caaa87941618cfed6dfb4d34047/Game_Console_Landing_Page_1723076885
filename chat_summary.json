@@ -1,63 +1,97 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1723076886",
+        "role": "chat_acknowledge",
+        "content": "Thanks for letting me know, I'll take care of it.",
+        "message_id": "guest08082024040749",
+        "timestamp": "08082024040749",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "Make all of the tabs one word equivalents of their current versions",
-        "timestamp": "08082024040203",
-        "message_id": "guest08082024040203"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, working on renaming all tabs to one word.",
-        "timestamp": "08082024040204",
-        "message_id": "guest08082024040203"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the new tab names to be synonyms of the current names or more abstract single-word concepts that capture the essence of each tab?\", \"option1\": \"Synonyms of current names\", \"option2\": \"Abstract concepts\"}, {\"question 2\": \"Should the new tab names maintain the current tonality and formality of the existing names, or are we looking to shift into a more casual or a more formal tone?\", \"option1\": \"Maintain current tonality\", \"option2\": \"Shift tone\"}], \"input_token_count\": 266, \"output_token_count\": 120, \"time_taken\": \"0:00:02.447699\"}",
-        "timestamp": "08082024040206",
-        "message_id": "guest08082024040203"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Incorporate drop-down menus for a cleaner UI\", \"checked\": true}, {\"feature\": \"Add hover effects to menu items for interactive feedback\", \"checked\": true}, {\"feature\": \"Implement a search bar for direct navigation\", \"checked\": false}, {\"feature\": \"Include a sticky navigation bar for easy access while scrolling\", \"checked\": true}, {\"feature\": \"Use icons next to tab names for intuitive navigation\", \"checked\": true}, {\"feature\": \"Optimize the tab layout for mobile responsiveness\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 126, \"time_taken\": \"0:00:04.255029\"}",
-        "timestamp": "08082024040208",
-        "message_id": "guest08082024040203"
-    },
-    {
-        "role": "user",
-        "content": "Add another nav item that is called 'About'. Make this one red",
-        "timestamp": "08082024040638",
-        "message_id": "guest08082024040637"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, adding red 'About' nav item as requested.",
-        "timestamp": "08082024040638",
-        "message_id": "guest08082024040637"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Home' nav item for easier navigation to the main page\", \"checked\": true}, {\"feature\": \"Implement a 'Contact Us' nav item for customer inquiries\", \"checked\": false}, {\"feature\": \"Include a 'Features' nav item to highlight console capabilities\", \"checked\": false}, {\"feature\": \"Add a dynamic 'Announcements' nav item to share news and updates\", \"checked\": true}, {\"feature\": \"Incorporate a language toggle in the nav bar for global accessibility\", \"checked\": false}, {\"feature\": \"Design a sticky nav bar for better user experience while scrolling\", \"checked\": true}], \"input_token_count\": 222, \"output_token_count\": 135, \"time_taken\": \"0:00:04.485645\"}",
-        "timestamp": "08082024040643",
-        "message_id": "guest08082024040637"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the 'About' nav item's red color, do you have a specific shade or hex code in mind to match your branding?\", \"option1\": \"Yes, I'll provide the specific hex code.\", \"option2\": \"No, please use a standard red that complements the site's design.\"}, {\"question 2\": \"Would you like the 'About' nav item to appear in a particular position in the navigation bar?\", \"option1\": \"Yes, it should be the first/last item (please specify).\", \"option2\": \"No, place it where it fits best within the current design.\"}], \"input_token_count\": 268, \"output_token_count\": 140, \"time_taken\": \"0:00:06.677779\"}",
-        "timestamp": "08082024040645",
-        "message_id": "guest08082024040637"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "Remove one of the two about navs",
+        "message_id": "guest08082024040749",
+        "timestamp": "08082024040749",
+        "component_file_name": "simple_header_component_1723076886",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the 'About' nav item's red color, do you have a specific shade or hex code in mind to match your branding?\", \"option1\": \"Yes, I'll provide the specific hex code.\", \"option2\": \"No, please use a standard red that complements the site's design.\"}, {\"question 2\": \"Would you like the 'About' nav item to appear in a particular position in the navigation bar?\", \"option1\": \"Yes, it should be the first/last item (please specify).\", \"option2\": \"No, place it where it fits best within the current design.\"}], \"input_token_count\": 268, \"output_token_count\": 140, \"time_taken\": \"0:00:06.677779\"}",
+        "message_id": "guest08082024040637",
+        "timestamp": "08082024040645",
+        "component_file_name": "simple_header_component_1723076886",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Home' nav item for easier navigation to the main page\", \"checked\": true}, {\"feature\": \"Implement a 'Contact Us' nav item for customer inquiries\", \"checked\": false}, {\"feature\": \"Include a 'Features' nav item to highlight console capabilities\", \"checked\": false}, {\"feature\": \"Add a dynamic 'Announcements' nav item to share news and updates\", \"checked\": true}, {\"feature\": \"Incorporate a language toggle in the nav bar for global accessibility\", \"checked\": false}, {\"feature\": \"Design a sticky nav bar for better user experience while scrolling\", \"checked\": true}], \"input_token_count\": 222, \"output_token_count\": 135, \"time_taken\": \"0:00:04.485645\"}",
+        "message_id": "guest08082024040637",
+        "timestamp": "08082024040643",
+        "component_file_name": "simple_header_component_1723076886",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding red 'About' nav item as requested.",
+        "message_id": "guest08082024040637",
+        "timestamp": "08082024040638",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Add another nav item that is called 'About'. Make this one red",
+        "message_id": "guest08082024040637",
+        "timestamp": "08082024040638",
+        "component_file_name": "simple_header_component_1723076886",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Incorporate drop-down menus for a cleaner UI\", \"checked\": true}, {\"feature\": \"Add hover effects to menu items for interactive feedback\", \"checked\": true}, {\"feature\": \"Implement a search bar for direct navigation\", \"checked\": false}, {\"feature\": \"Include a sticky navigation bar for easy access while scrolling\", \"checked\": true}, {\"feature\": \"Use icons next to tab names for intuitive navigation\", \"checked\": true}, {\"feature\": \"Optimize the tab layout for mobile responsiveness\", \"checked\": false}], \"input_token_count\": 220, \"output_token_count\": 126, \"time_taken\": \"0:00:04.255029\"}",
+        "message_id": "guest08082024040203",
+        "timestamp": "08082024040208",
+        "component_file_name": "simple_header_component_1723076886",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the new tab names to be synonyms of the current names or more abstract single-word concepts that capture the essence of each tab?\", \"option1\": \"Synonyms of current names\", \"option2\": \"Abstract concepts\"}, {\"question 2\": \"Should the new tab names maintain the current tonality and formality of the existing names, or are we looking to shift into a more casual or a more formal tone?\", \"option1\": \"Maintain current tonality\", \"option2\": \"Shift tone\"}], \"input_token_count\": 266, \"output_token_count\": 120, \"time_taken\": \"0:00:02.447699\"}",
+        "message_id": "guest08082024040203",
+        "timestamp": "08082024040206",
+        "component_file_name": "simple_header_component_1723076886",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, working on renaming all tabs to one word.",
+        "message_id": "guest08082024040203",
+        "timestamp": "08082024040204",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Make all of the tabs one word equivalents of their current versions",
+        "message_id": "guest08082024040203",
+        "timestamp": "08082024040203",
+        "component_file_name": "simple_header_component_1723076886",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
         "timestamp": "08082024040749",
         "message_id": "guest08082024040749"
     }

@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Thanks for letting me know, I'll take care of it.",
+        "message_id": "guest08082024040749",
+        "timestamp": "08082024040749",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Remove one of the two about navs",
         "message_id": "guest08082024040749",
