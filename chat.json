@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like a specific shade of red for the hero text, to match your brand's color scheme or aesthetic?\", \"option1\": \"Yes, I will provide the color code.\", \"option2\": \"No, any vibrant red will do.\"}, {\"question 2\": \"Do you want to apply the color change to all headings in the hero section or just specific text elements?\", \"option1\": \"Change all headings in the hero section.\", \"option2\": \"Only specific text elements, I will specify which ones.\"}], \"input_token_count\": 259, \"output_token_count\": 120, \"time_taken\": \"0:00:03.452775\"}",
+        "message_id": "guest08082024042112",
+        "timestamp": "08082024042117",
+        "component_file_name": "simple_hero_component_1723076886",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Make the hero text red",
         "message_id": "guest08082024042112",
