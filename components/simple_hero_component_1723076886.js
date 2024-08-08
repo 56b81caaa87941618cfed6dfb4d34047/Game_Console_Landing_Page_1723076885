@@ -9,11 +9,11 @@ Vue.component("simple_hero_component_1723076886", {
                 <div id="hero-text-container" class="mr-auto place-self-center lg:col-span-7">
                     
                     <div id="hero-title-container-text" class="flex">
-                        <h1 id="hero-title" class="flex-1 max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">Experience Gaming's Next Evolution</h1>
+                        <h1 id="hero-title" class="flex-1 max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white">Unleash Your Gaming Potential</h1>
                     </div>
 
                     <div id="hero-subtitle-container" class="flex">
-                        <p id="hero-subtitle" class="flex-1 max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Immerse yourself in cutting-edge graphics and revolutionary gameplay</p>
+                        <p id="hero-subtitle" class="flex-1 max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">Dive into a world where imagination meets technology, and every click rewrites the rules</p>
                     </div>
 
                     <div id="hero-buttons-container" class="space-y-4 sm:flex sm:space-y-0 sm:space-x-4">

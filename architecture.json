@@ -38,5 +38,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested the AI to rename all tabs to one-word equivalents of their current versions. The AI acknowledged this request by stating, \"Got it, working on renaming all tabs to one word.\" To better assist the user, the AI asked for more details about the project, saying, \"Can you describe the project a bit more?\"\nAI: Thanks for letting me know, I'll take care of it.\nUser: Remove one of the two about navs\nAI: Got it, adding red 'About' nav item as requested.\nUser: Add another nav item that is called 'About'. Make this one red\nThis is the user's current request of changes to be made: Remove the about navbar item"
+    },
+    {
+        "level": 1,
+        "task_description": "Changed the hero text to something more catchy"
     }
 ]
