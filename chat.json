@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the new 'About' nav item to be placed before or after existing nav items?\", \"option1\": \"Before existing nav items\", \"option2\": \"After existing nav items\"}, {\"question 2\": \"Is there a specific shade of red you want for the 'About' nav item?\", \"option1\": \"Standard red\", \"option2\": \"Dark red\"}], \"input_token_count\": 420, \"output_token_count\": 93, \"time_taken\": \"0:00:03.129741\"}",
+        "message_id": "guest08082024040851",
+        "timestamp": "08082024040854",
+        "component_file_name": "simple_header_component_1723076886",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, adding a red 'about' nav item.",
         "message_id": "guest08082024040851",
