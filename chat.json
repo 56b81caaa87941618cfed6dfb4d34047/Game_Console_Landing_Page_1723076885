@@ -1,6 +1,15 @@
 [
     {
         "role": "user",
+        "content": "Changed the hero text to something more catchy",
+        "message_id": "guest08082024041249",
+        "timestamp": "08082024041249",
+        "component_file_name": "simple_hero_component_1723076886",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
         "content": "Remove the about navbar item",
         "message_id": "guest08082024041140",
         "timestamp": "08082024041141",
