@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "Add another nav item that is called 'About'. Make this one red"
+    },
+    {
+        "level": 1,
+        "task_description": "Remove one of the two about navs"
     }
 ]
