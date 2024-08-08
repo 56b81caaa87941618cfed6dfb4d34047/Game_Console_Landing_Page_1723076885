@@ -46,5 +46,9 @@
     {
         "level": 1,
         "task_description": "Changed the hero text to something more catchy"
+    },
+    {
+        "level": 1,
+        "task_description": "Make the hero text red"
     }
 ]
