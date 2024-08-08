@@ -50,5 +50,9 @@
     {
         "level": 1,
         "task_description": "Make the hero text red"
+    },
+    {
+        "level": 1,
+        "task_description": "Make the hero text red"
     }
 ]
