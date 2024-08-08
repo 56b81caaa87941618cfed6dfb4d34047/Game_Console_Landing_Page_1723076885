@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "\"I have updated the hero text for you! :)\"",
+        "message_id": "guest08082024041249",
+        "timestamp": "08082024041249",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Changed the hero text to something more catchy",
         "message_id": "guest08082024041249",
