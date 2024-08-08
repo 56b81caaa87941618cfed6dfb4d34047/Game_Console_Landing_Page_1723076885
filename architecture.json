@@ -6,5 +6,9 @@
     {
         "level": 1,
         "task_description": "Make all of the tabs one word equivalents of their current versions"
+    },
+    {
+        "level": 1,
+        "task_description": "Add another nav item that is called 'About'. Make this one red"
     }
 ]
